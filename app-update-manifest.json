@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "2.1.1-test",
+  "versionCode": 3,
+  "versionName": "2.1.0",
   "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/v2.1.0/DjoudinisIPPlayer-2.1.0.apk",
-  "releaseNotes": "Test-Update (Manifest versionCode 4). Download ist weiterhin v2.1.0 — nur zum Testen des Update-Dialogs.",
+  "releaseNotes": "Djoudinis IP Player 2.1.0 — 15-stellige Lizenznummern, Update-Flow-Fixes, Versionsanzeige in Einstellungen.",
   "minVersionCode": 1,
   "sha256": "91f2a137363e83a046fa73e5063efaf093adb838f607ff73f15ed6ea2b964b47"
 }
