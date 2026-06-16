@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "2.1.0",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/v2.1.0/DjoudinisIPPlayer-2.1.0.apk",
-  "releaseNotes": "Djoudinis IP Player 2.1.0 — 15-stellige Lizenznummern, Update-Flow-Fixes, Versionsanzeige in Einstellungen.",
+  "versionCode": 5,
+  "versionName": "2.1.2",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/v2.1.2/DjoudinisIPPlayer-2.1.2.apk",
+  "releaseNotes": "Update-Test: In-App-Update von Build 4 auf 2.1.2 (versionCode 5). Erfolgsdialog nach Installation testen.",
   "minVersionCode": 1,
-  "sha256": "91f2a137363e83a046fa73e5063efaf093adb838f607ff73f15ed6ea2b964b47"
+  "sha256": "c9a0f262fcde85ec97b85cf3ef10c2a52934942ef1051fd0ceec01d9f02580be"
 }
