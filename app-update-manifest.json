@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "2.1.2",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/v2.1.2/DjoudinisIPPlayer-2.1.2.apk",
-  "releaseNotes": "Update-Test: In-App-Update von Build 4 auf 2.1.2 (versionCode 5). Erfolgsdialog nach Installation testen.",
+  "versionCode": 6,
+  "versionName": "2.1.3",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/v2.1.3/DjoudinisIPPlayer-2.1.3.apk",
+  "releaseNotes": "Djoudinis IP Player 2.1.3 (Build 6)\n\n• Lizenzschlüssel: Eingabe in den Einstellungen zittert nicht mehr — stabiler Dialog beim Tippen der 15 Ziffern\n• TV-Einstellungen: Fokus bleibt im Lizenzfeld, während der System-Dialog geöffnet ist\n• Allgemeine Stabilität der Lizenz-Aktivierung verbessert",
   "minVersionCode": 1,
-  "sha256": "c9a0f262fcde85ec97b85cf3ef10c2a52934942ef1051fd0ceec01d9f02580be"
+  "sha256": "9927b20e368a6d89b8b6cd88f2d071402ff6464c92b5c78fb0009a917f61a187"
 }
