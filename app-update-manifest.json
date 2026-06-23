@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "2.1.4",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/v2.1.4/DjoudinisIPPlayer-2.1.4.apk",
-  "releaseNotes": "Djoudinis IP Player 2.1.4 (Build 7)\n\n• Hilfe: Neues Hilfe-System in der App mit deutschsprachigen Texten und weiteren Sprachen\n• Lizenz & Testphase: Trial-Gate und stabile Lizenz-Eingabe in TV- und Mobile-Einstellungen\n• Updates: In-App-Update-Prüfung, Download und Installation\n• Player: Live-Vorschau-Übergabe, VOD-Stall-Recovery und VPN-Wiedergabe-Schutz\n• EPG: Verbesserter Kanal-EPG-Sync und Resolver\n• Lint/Stabilität: MainActivity- und TV-Einstellungs-Integration robuster\n• Werkzeuge: Erweitertes Live-TV-Monitor-Dashboard (Entwickler)",
+  "versionCode": 8,
+  "versionName": "2.1.5",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/v2.1.5/DjoudinisIPPlayer-2.1.5.apk",
+  "releaseNotes": "Djoudinis IP Player 2.1.5 (Build 8)\n\n• Weiterschauen: Fortsetzen in Filme- und Serien-Bereichen (nicht in Favoriten)\n• Tippen startet die Wiedergabe an der gespeicherten Position\n• Serien: Fortschritt mit Staffel/Episode und Serientitel in der Zeile",
   "minVersionCode": 1,
-  "sha256": "11767af3510ac191598ee2941897d57436e1fb27a8be3cf50c8a6420e6da2953"
+  "sha256": "9815cd685f1dc5a970ab119042806a0e31c6cb3e05d0bcf617b26523fa81e73a"
 }
