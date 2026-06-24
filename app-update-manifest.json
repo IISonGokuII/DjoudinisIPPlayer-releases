@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "2.1.5",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/v2.1.5/DjoudinisIPPlayer-2.1.5.apk",
-  "releaseNotes": "Djoudinis IP Player 2.1.5 (Build 8)\n\n• Weiterschauen: Fortsetzen in Filme- und Serien-Bereichen (nicht in Favoriten)\n• Tippen startet die Wiedergabe an der gespeicherten Position\n• Serien: Fortschritt mit Staffel/Episode und Serientitel in der Zeile",
+  "versionCode": 9,
+  "versionName": "2.1.6",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/v2.1.6/DjoudinisIPPlayer-2.1.6.apk",
+  "releaseNotes": "Djoudinis IP Player 2.1.6 (Build 9)\n\n• Weiterschauen: eigene Kategorie in Filme und Serien (Fortsetzen an gespeicherter Position)\n• Update-Check beim Start: App prüft automatisch auf Updates; Dialog erscheint, bis die Version verworfen wurde\n• Lizenz-Hinweis: ab 3 Tage vor Test- oder Lizenzablauf einmal täglich beim Start\n• Lizenz-Eingabe auf TV stabil: eigener Dialog ohne Scroll-Jitter beim Tippen der 15 Ziffern\n\nUpdate über Einstellungen → System → Update prüfen oder automatisch beim App-Start.",
   "minVersionCode": 1,
-  "sha256": "9815cd685f1dc5a970ab119042806a0e31c6cb3e05d0bcf617b26523fa81e73a"
+  "sha256": "26b3b66edde79a0ccb5918ca9fd3c463ba0420db65e50ce2f34933546ce43a31"
 }
