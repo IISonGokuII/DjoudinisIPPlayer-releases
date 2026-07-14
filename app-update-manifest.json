@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "2.1.8",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/v2.1.8/DjoudinisIPPlayer-2.1.8.apk",
-  "releaseNotes": "Djoudinis IP Player 2.1.8 (Build 11)\n\n• Filme/Serien: Kategorien sortieren (wie Live TV)\n• Weiterschauen: Einträge entfernen\n\nUpdate über Einstellungen → System → Update prüfen oder automatisch beim App-Start.",
+  "versionCode": 14,
+  "versionName": "2.2.0",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/v2.2.0/DjoudinisIPPlayer-2.2.0.apk",
+  "releaseNotes": "Djoudinis IP Player 2.2.0 (Build 14)\n\n• Filme: Absturz bei großen Titeln (z. B. 4K) behoben — kleinerer Film-Puffer auf schwachen TVs, 4K bleibt möglich\n• Wiedergabe-Einstellungen getrennt: Live-TV und Filme/Serien haben eigene Puffer- und Qualitätsoptionen\n• Neu: Max. Auflösung und Max. Bitrate für Filme (Automatisch / 4K / 1080p / 720p usw.)\n• Wiedergabe-Profil bleibt als Schnellwahl für Filme\n\nUpdate über Einstellungen → System → Update prüfen oder automatisch beim App-Start.",
   "minVersionCode": 1,
-  "sha256": "c7001415db3a2f9bd63bf81aa2e689a5875f1bbd751af44848bac8d08f2dc8bd"
+  "sha256": "21716e512b2a2be6f65abf65e8b317a261f92e3532a4e04dcbefd0a7991b789d"
 }
