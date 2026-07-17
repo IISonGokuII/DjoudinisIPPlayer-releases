@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "2.2.1",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-2.2.1.apk",
-  "releaseNotes": "Djoudinis IP Player 2.2.1 (Build 15)\n\n• Abgelaufene Lizenz: Vollbild-Sperre mit Button „Lizenzschlüssel eingeben“ (Menü dahinter nicht mehr bedienbar)\n• Sync-Fehler sichtbar im Dashboard (TV + Mobile) mit erneuter Versuch\n• Offline-Banner auch auf dem TV-Dashboard\n• Weniger Speicherlast: Coil-Cache auf schwachen Geräten begrenzt, Listen entlastet\n• Fehlende Übersetzungen in ES/FR/TR/RU/AR ergänzt\n• Cloud-Aufnahme-Einstellungen wieder erreichbar\n• TV: Guided Setup in den Einstellungen, Login-Fehlertexte korrigiert\n• Lizenzdatum folgt der Gerätesprache; Update-Fehler werden geloggt\n\nUpdate über Einstellungen → System → Update prüfen oder automatisch beim App-Start.",
+  "versionCode": 16,
+  "versionName": "2.2.2",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-2.2.2.apk",
+  "releaseNotes": "Djoudinis IP Player 2.2.2 (Build 16)\n\n• Konferenz-Feature entfernt (Kachel, API football-data.org, Hilfe)\n• TV-Dashboard neu ausgerichtet: Live TV | Aufnahmen | Multi-View, darunter Filme | Serien (gleiche Höhe/Breite)\n• Multi-View bleibt unverändert\n\nUpdate über Einstellungen → System → Update prüfen oder automatisch beim App-Start.",
   "minVersionCode": 1,
-  "sha256": "efbc1eb4a7a361753981fe6abf0fa30fc90617f8592965c3e553effba6a9be17"
+  "sha256": "e415eef8633fcbe43f09dd7a3dc72e2894b3905d6c5f0e746bfb23e100dbd613"
 }
