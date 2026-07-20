@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "2.3.1",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-2.3.1.apk",
-  "releaseNotes": "Djoudinis IP Player 2.3.1 (Build 18)\n\nÄnderungen seit Update-Server 2.3.0 (Build 17):\n\nLive-TV:\n• Zap ohne Schwarzbild — letzter Frame bleibt bis der neue Stream steht\n• Schnelleres Prefetch beim Durchblättern der Kanalliste\n• Auf Geräten mit wenig RAM: Live-Qualität automatisch gedeckelt (stabiler)\n\nTV-Look:\n• Neue Design-Presets: Signature, Nightfall, Ember, Tidal\n• Alte Presets (Cinema/Glass/Arena/Mono) entfallen — Fallback auf Signature\n\nEinstellungen (Mobile + TV):\n• Doppelte Einträge entfernt (Kanallisten / Sync-Shortcuts)\n• Wiedergabe-Profil „Benutzerdefiniert“, wenn Puffer/Qualität manuell geändert wird\n• Software-Decoder und Tunnelwiedergabe schließen sich gegenseitig aus (mit Hinweis)\n• „Alle Einstellungen zurücksetzen“ setzt jetzt auch Live-/VOD-Puffer, TV-Look und Sync-Intervalle\n• TV: Reconnect-Versuche/-Verzögerung, Standard-Seitenverhältnis, externes EPG\n• TV: Hell/Dunkel klar getrennt vom TV-Look; Sync nur bei WLAN/Laden auf TV ausgeblendet\n\nSonstiges:\n• Hilfe/Texte und Labels an die neuen Einstellungen angepasst\n\nUpdate über Einstellungen → System → Update prüfen oder automatisch beim App-Start.",
+  "versionCode": 19,
+  "versionName": "2.3.2",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-2.3.2.apk",
+  "releaseNotes": "Djoudinis IP Player 2.3.2 (Build 19)\n\nÄnderungen seit Update-Server 2.3.1 (Build 18):\n\nFirebase Crashlytics:\n• Abstürze und ANRs werden an Firebase gemeldet\n• Non-fatals bei Endfehlern: Playlist-/EPG-Sync, Playback-Give-up, Companion, Aufnahmen, Onboarding\n• Anonyme Geräte-ID (Install-UUID) + Geräte-/Versions-Infos für die Auswertung\n• Deduping, damit IPTV-Rauschen Firebase nicht flutet\n\nHinweis: Reports erscheinen in der Firebase Console unter Crashlytics (Projekt com-djoudini-iplayer).\n\nUpdate über Einstellungen → System → Update prüfen oder automatisch beim App-Start.",
   "minVersionCode": 1,
-  "sha256": "a39d88eb0270fe3f7ba4d60042d9f6c4deb807da6d1e270601d3d5ac764a15b4"
+  "sha256": "9733fd73fab6ff44641afe162bde2507159b0006346d8d1bb357b71d672b855d"
 }
