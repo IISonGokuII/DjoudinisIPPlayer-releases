@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "2.3.2",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-2.3.2.apk",
-  "releaseNotes": "Djoudinis IP Player 2.3.2 (Build 19)\n\nÄnderungen seit Update-Server 2.3.1 (Build 18):\n\nFirebase Crashlytics:\n• Abstürze und ANRs werden an Firebase gemeldet\n• Non-fatals bei Endfehlern: Playlist-/EPG-Sync, Playback-Give-up, Companion, Aufnahmen, Onboarding\n• Anonyme Geräte-ID (Install-UUID) + Geräte-/Versions-Infos für die Auswertung\n• Deduping, damit IPTV-Rauschen Firebase nicht flutet\n\nHinweis: Reports erscheinen in der Firebase Console unter Crashlytics (Projekt com-djoudini-iplayer).\n\nUpdate über Einstellungen → System → Update prüfen oder automatisch beim App-Start.",
+  "versionCode": 20,
+  "versionName": "2.3.3",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-2.3.3.apk",
+  "releaseNotes": "Djoudinis IP Player 2.3.3 (Build 20)\n\n• Download von der Homepage (APK + Downloader-URL)\n• Signatur-Schutz: gepatchte/neu signierte Builds werden blockiert\n• Verlängerungswünsche online anfordern\n• Online-Lizenz-Verbesserungen\n\nUpdate über Einstellungen → System → Update prüfen oder automatisch beim App-Start.",
   "minVersionCode": 1,
-  "sha256": "9733fd73fab6ff44641afe162bde2507159b0006346d8d1bb357b71d672b855d"
+  "sha256": "430599a7543c3362ab1538cda3b9f203df41160b95739985e4b9068d49d20b84"
 }
