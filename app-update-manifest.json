@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "2.3.7",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-2.3.7.apk",
-  "releaseNotes": "Djoudinis IP Player 2.3.7 (Build 24)\n\n• Geplante Aufnahmen: channelId/streamUrl nach Sync + frische URL beim Start\n• M3U Filme/Serien behalten IDs bei URL-Token-Wechsel (Name/Gruppe)\n• Xtream: Name-Fallback wenn Provider-IDs wechseln; Episoden-seriesId Remap\n• Fertige Aufnahmen + Keep-Limit über channelRemoteId\n\nUpdate über Einstellungen → System → Update prüfen.",
+  "versionCode": 25,
+  "versionName": "2.3.8",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-2.3.8.apk",
+  "releaseNotes": "Djoudinis IP Player 2.3.8 (Build 25)\n\n• M3U: stabile IDs über tvg-id (Fallback URL-Hash), Legacy-IDs werden erkannt\n• Kids-Filter speichern Kategorie per remoteId+Typ+Playlist\n• Smarteres Name-Matching (FHD/HEVC/… werden ignoriert)\n\nUpdate über Einstellungen → System → Update prüfen.",
   "minVersionCode": 1,
-  "sha256": "0dfa69e2ceaf4bda8c15d9758af3b346a86433c571fded9fa36c1d66e3976507"
+  "sha256": "dc3b6ee8016e5988a467d50c12dadc5d20429bdaf9ba39c77221b880f1308b3b"
 }
