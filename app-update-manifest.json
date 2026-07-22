@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "2.3.6",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-2.3.6.apk",
-  "releaseNotes": "Djoudinis IP Player 2.3.6 (Build 23)\n\n• Fix: Kategorie-Sync löscht nicht mehr alle Kanäle/VOD (Kids-Filter, Favoriten, Weiterschauen bleiben)\n• Fix: Stream-Sync behält stabile IDs und mappt Last-Channel, MultiView und Aufnahme-Regeln neu\n• Fix: M3U Live-Kanäle behalten lokale IDs; URL-Token-Wechsel per Name/Gruppe erkannt\n• Aufnahme-Regeln speichern channelRemoteId\n\nUpdate über Einstellungen → System → Update prüfen.",
+  "versionCode": 24,
+  "versionName": "2.3.7",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-2.3.7.apk",
+  "releaseNotes": "Djoudinis IP Player 2.3.7 (Build 24)\n\n• Geplante Aufnahmen: channelId/streamUrl nach Sync + frische URL beim Start\n• M3U Filme/Serien behalten IDs bei URL-Token-Wechsel (Name/Gruppe)\n• Xtream: Name-Fallback wenn Provider-IDs wechseln; Episoden-seriesId Remap\n• Fertige Aufnahmen + Keep-Limit über channelRemoteId\n\nUpdate über Einstellungen → System → Update prüfen.",
   "minVersionCode": 1,
-  "sha256": "6286bc310206764ad72c3070eb2d947f6dcb291e61380e6315938f06ec9f7761"
+  "sha256": "0dfa69e2ceaf4bda8c15d9758af3b346a86433c571fded9fa36c1d66e3976507"
 }
