@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "2.3.3",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-2.3.3.apk",
-  "releaseNotes": "Djoudinis IP Player 2.3.3 (Build 20)\n\n• Download von der Homepage (APK + Downloader-URL)\n• Signatur-Schutz: gepatchte/neu signierte Builds werden blockiert\n• Verlängerungswünsche online anfordern\n• Online-Lizenz-Verbesserungen\n\nUpdate über Einstellungen → System → Update prüfen oder automatisch beim App-Start.",
+  "versionCode": 21,
+  "versionName": "2.3.4",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-2.3.4.apk",
+  "releaseNotes": "Djoudinis IP Player 2.3.4 (Build 21)\n\n• Statusseite im Browser aus Lizenz-Einstellungen / Gate öffnen\n• Link mit Gerätecode vorausgefüllt\n\nUpdate über Einstellungen → System → Update prüfen.",
   "minVersionCode": 1,
-  "sha256": "430599a7543c3362ab1538cda3b9f203df41160b95739985e4b9068d49d20b84"
+  "sha256": "82637f2cd9b10be50eddccf811174f12ef367ed49e0d9bd2275baca16d6f2c1d"
 }
