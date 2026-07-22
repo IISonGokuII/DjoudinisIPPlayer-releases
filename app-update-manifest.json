@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "2.3.5",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-2.3.5.apk",
-  "releaseNotes": "Djoudinis IP Player 2.3.5 (Build 22)\n\n• Fix: Weiterschauen nach Playlist-Sync (Serien-Episoden-IDs bleiben erhalten)\n• Verwaiste Weiterschauen-Einträge werden ausgeblendet\n• Fix: Endlos-Ladekreis bei „Wiederholen“ ohne Stream-URL\n\nUpdate über Einstellungen → System → Update prüfen.",
+  "versionCode": 23,
+  "versionName": "2.3.6",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-2.3.6.apk",
+  "releaseNotes": "Djoudinis IP Player 2.3.6 (Build 23)\n\n• Fix: Kategorie-Sync löscht nicht mehr alle Kanäle/VOD (Kids-Filter, Favoriten, Weiterschauen bleiben)\n• Fix: Stream-Sync behält stabile IDs und mappt Last-Channel, MultiView und Aufnahme-Regeln neu\n• Fix: M3U Live-Kanäle behalten lokale IDs; URL-Token-Wechsel per Name/Gruppe erkannt\n• Aufnahme-Regeln speichern channelRemoteId\n\nUpdate über Einstellungen → System → Update prüfen.",
   "minVersionCode": 1,
-  "sha256": "65d40137ce1239f1204849214745af42294226fe134d6ff92b79f651ca931359"
+  "sha256": "6286bc310206764ad72c3070eb2d947f6dcb291e61380e6315938f06ec9f7761"
 }
