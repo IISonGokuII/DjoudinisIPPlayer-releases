@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "2.3.8",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-2.3.8.apk",
-  "releaseNotes": "Djoudinis IP Player 2.3.8 (Build 25)\n\n• M3U: stabile IDs über tvg-id (Fallback URL-Hash), Legacy-IDs werden erkannt\n• Kids-Filter speichern Kategorie per remoteId+Typ+Playlist\n• Smarteres Name-Matching (FHD/HEVC/… werden ignoriert)\n\nUpdate über Einstellungen → System → Update prüfen.",
+  "versionCode": 30,
+  "versionName": "3.0.0",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.0.0.apk",
+  "releaseNotes": "Djoudinis IP Player 3.0.0 (Build 30) – das größte Update bisher\n\n• Neuer TV-Guide direkt auf der Startseite: öffnet in unter 1 Sekunde, doppelt so viele Sender sichtbar\n• EPG rund 10× schneller, mehrere Quellen, Zeitversatz, falsche Anbieter-Zeiten werden korrigiert\n• Elegante Infoleiste beim Umschalten, Trennzeilen werden übersprungen\n• Anti-Hänger mit echten Daten verbessert, kluges Warten bei Verbindungslimit\n• Volle Qualität auf starken TVs, Sparmodus für schwache Sticks (abschaltbar)\n• Neuer Tondecoder für DTS/AC3\n• Filme: Weiterschauen mit Fortschrittsbalken\n• Speedtest zeigt Land und IP (VPN-Check)\n• Handy als Fernbedienung mit Tastatur, Sicherung & Umzug, Erinnerungen, Kinderfilter überall\n• Überarbeitete Oberfläche, Hilfe in 7 Sprachen\n\nUpdate über Einstellungen → System → Update prüfen.",
   "minVersionCode": 1,
-  "sha256": "dc3b6ee8016e5988a467d50c12dadc5d20429bdaf9ba39c77221b880f1308b3b"
+  "sha256": "5ee2853e42ce719e6c3e5e6a0088bbb534da1b9c82dec59ea5c1ddb21588b2ea"
 }
