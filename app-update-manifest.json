@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "3.1.0",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.1.0.apk",
-  "releaseNotes": "Djoudinis IP Player 3.1.0 (Build 31)\n\n• Handy komplett neu: ganzer Bildschirm, 8 statt 2 Sender auf einen Blick, Plakat-Raster, neuer Guide-Tab\n• Querformat & Tablet mit Seitenleiste, Player automatisch im Vollbild\n• Fernbedienung: Fokus bleibt auf dem letzten Film, Kategorie springt auf den ersten Eintrag, Zurück in zwei Stufen\n• Dashboard mit Uhr (Sekunden), Datum und Wetter für euren Ort\n• 5 komplette Themes: Signature, Nightfall, Ember, Tidal und neu Aurora\n• Neuer Speedtest mit Tacho, Ping und Jitter\n• Eigenes Intro mit Startsound (abschaltbar)\n• Anti-Hänger erkennt Dauer-Ruckeln und Standbilder jetzt zuverlässig\n• Bis zu 60× weniger EPG-Anfragen, 44 % mehr Inhalt auf dem TV\n• 5 Einstellungen, die vorher nicht wirkten, funktionieren jetzt\n• Einmaliges Video mit allen Neuerungen aus 3.0 und 3.1\n\nUpdate über Einstellungen → System → Update prüfen.",
+  "versionCode": 32,
+  "versionName": "3.1.1",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.1.1.apk",
+  "releaseNotes": "Djoudinis IP Player 3.1.1 (Build 32)\n\nNeu in 3.1.1:\n• Deutlich flüssigere Bedienung mit Theme-Hintergrund (Grafiklast pro Bild von 29 ms auf 1 ms)\n• Filme/Serien: Liste zeigte nach Live-TV manchmal „0 Filme“ – behoben\n\nAlles aus 3.1:\n• Handy komplett neu, Querformat & Tablet\n• Fernbedienung: Fokus bleibt, wo ihr wart\n• Uhr, Datum und Wetter im Dashboard\n• 5 komplette Themes, neuer Speedtest mit Ping & Jitter\n• Intro mit Startsound, verbesserter Anti-Hänger\n• Einmaliges Video mit allen Neuerungen aus 3.0 und 3.1\n\nUpdate über Einstellungen → System → Update prüfen.",
   "minVersionCode": 1,
-  "sha256": "6aa6692228a5e52ad0339fb2a0b4871910b397d22bf02b6e86d7f90f0dd265c3"
+  "sha256": "ed2a22b07018a0c8baa36036ca67a815d0faa1d161385e25d8c8776f79c521ed"
 }
