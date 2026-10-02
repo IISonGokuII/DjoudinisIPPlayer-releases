@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "3.1.3",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.1.3.apk",
-  "releaseNotes": "Djoudinis IP Player 3.1.3 (Build 34)\n\nNeu in 3.1.3:\n• Deutlich weniger Anfragen an den Anbieter: Die Playlist wird mit 3 statt bis zu 100 Anfragen aktualisiert\n• Lehnt der Anbieter ab (z. B. Fehler 513), wird nicht mehr sofort wiederholt; automatische Abrufe pausieren 30 Minuten\n• Keine leeren Listen mehr: Bei einer Ablehnung bleiben Sender, Filme und Serien erhalten, mit klarer Meldung\n• Neue User-Agents (TiviMate, IPTV Smarters, VLC, Kodi u. a.), gelten jetzt auch für die Listen\n• Sicherung: frei wählbar, was gesichert wird (z. B. nur Zugangsdaten)\n• Sicherung wiederherstellen direkt im Einrichtungs-Assistenten\n• TV: Fokus in den Einstellungen springt nicht mehr zurück\n\nUpdate über Einstellungen → System → Update prüfen.",
+  "versionCode": 35,
+  "versionName": "3.1.4",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.1.4.apk",
+  "releaseNotes": "Djoudinis IP Player 3.1.4 (Build 35)\n\nNeu in 3.1.4:\n• Sortieren nach Jahr (neueste oder älteste zuerst) bei Filmen und Serien\n• Sortierung über eine Auswahlliste statt Durchklicken\n• A–Z ignoriert Kürzel wie „DE -“ und sortiert Umlaute richtig\n• Playlist und TV-Guide aktualisieren sich einmal täglich (schonender für den Anbieter)\n• Neues Video von KarimCleverBot mit allen Neuerungen seit 3.1\n\nSeit 3.1 außerdem:\n• Viel weniger Anfragen an den Anbieter (3 statt bis zu 100)\n• Bei Ablehnung durch den Anbieter keine Wiederholungen und keine leeren Listen\n• Neue User-Agents (TiviMate, IPTV Smarters, VLC, Kodi u. a.)\n• Sicherung frei wählbar und Wiederherstellen im Einrichtungs-Assistenten\n\nUpdate über Einstellungen → System → Update prüfen.",
   "minVersionCode": 1,
-  "sha256": "328e6b23374e80afb8dba754dfaf254c77e1cbc5a3745465b77dcf773c01675f"
+  "sha256": "fed47f0fd61499f6171db93b6fbd04efe03e0cdd0963e9e2791b39225d15ba69"
 }
