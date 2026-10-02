@@ -4,5 +4,5 @@
   "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.1.4.apk",
   "releaseNotes": "Djoudinis IP Player 3.1.4 (Build 35)\n\nNeu in 3.1.4:\n• Sortieren nach Jahr (neueste oder älteste zuerst) bei Filmen und Serien\n• Sortierung über eine Auswahlliste statt Durchklicken\n• A–Z ignoriert Kürzel wie „DE -“ und sortiert Umlaute richtig\n• Playlist und TV-Guide aktualisieren sich einmal täglich (schonender für den Anbieter)\n• Neues Video von KarimCleverBot mit allen Neuerungen seit 3.1\n\nSeit 3.1 außerdem:\n• Viel weniger Anfragen an den Anbieter (3 statt bis zu 100)\n• Bei Ablehnung durch den Anbieter keine Wiederholungen und keine leeren Listen\n• Neue User-Agents (TiviMate, IPTV Smarters, VLC, Kodi u. a.)\n• Sicherung frei wählbar und Wiederherstellen im Einrichtungs-Assistenten\n\nUpdate über Einstellungen → System → Update prüfen.",
   "minVersionCode": 1,
-  "sha256": "6b5102965994bb645838c5d7fa02ddf3ec87b5803f288d372a34369f5556613a"
+  "sha256": "5828f069a537df4ddeab19fb3033daffb7987fa0bfdd9c97e7c03953cba55a80"
 }
