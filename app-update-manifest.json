@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "3.1.4",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.1.4.apk",
-  "releaseNotes": "Djoudinis IP Player 3.1.4 (Build 35)\n\nNeu in 3.1.4:\n• Sortieren nach Jahr (neueste oder älteste zuerst) bei Filmen und Serien\n• Sortierung über eine Auswahlliste statt Durchklicken\n• A–Z ignoriert Kürzel wie „DE -“ und sortiert Umlaute richtig\n• Playlist und TV-Guide aktualisieren sich einmal täglich (schonender für den Anbieter)\n• Neues Video von KarimCleverBot mit allen Neuerungen seit 3.1\n\nSeit 3.1 außerdem:\n• Viel weniger Anfragen an den Anbieter (3 statt bis zu 100)\n• Bei Ablehnung durch den Anbieter keine Wiederholungen und keine leeren Listen\n• Neue User-Agents (TiviMate, IPTV Smarters, VLC, Kodi u. a.)\n• Sicherung frei wählbar und Wiederherstellen im Einrichtungs-Assistenten\n\nUpdate über Einstellungen → System → Update prüfen.",
+  "versionCode": 41,
+  "versionName": "3.6.4",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.6.4.apk",
+  "releaseNotes": "Djoudinis IP Player 3.6.4 (Build 41)\n\nNeu seit 3.1.4:\n• Vom Handy auf den Fernseher übertragen (Cast): Chromecast, Google TV, Android TV und die meisten Smart-TVs per DLNA\n• Trailer direkt in der App (KinoCheck) mit Pause, ±10 s, Untertitel und Qualität\n• Bewertung (★) und Schauspieler direkt im Info-Fenster bei Filmen und Serien\n• Handy: echtes Vollbild, Zoomen mit zwei Fingern, Format-Knopf\n• Intro: Bild und Ton jedes Mal synchron und flüssig\n• Stabiler: kein Absturz mehr, wenn der Anbieter kurz nicht erreichbar ist (z. B. VPN-Wechsel)\n• Companion-Fernbedienung entfernt (ersetzt durch Cast)\n• Neues Video von KarimCleverBot mit allen Neuerungen\n\nUpdate über Einstellungen → System → Update prüfen.",
   "minVersionCode": 1,
-  "sha256": "5828f069a537df4ddeab19fb3033daffb7987fa0bfdd9c97e7c03953cba55a80"
+  "sha256": "b0cb62aeb7ebf0bf61f4c1cafc19f13fedbeeb05e577134c298347a0bc9fffa1"
 }
