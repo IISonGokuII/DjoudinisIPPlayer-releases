@@ -1,8 +1,8 @@
 {
-  "versionCode": 41,
-  "versionName": "3.6.4",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.6.4.apk",
-  "releaseNotes": "Djoudinis IP Player 3.6.4 (Build 41)\n\nNeu seit 3.1.4:\n• Vom Handy auf den Fernseher übertragen (Cast): Chromecast, Google TV, Android TV und die meisten Smart-TVs per DLNA\n• Trailer direkt in der App (KinoCheck) mit Pause, ±10 s, Untertitel und Qualität\n• Bewertung (★) und Schauspieler direkt im Info-Fenster bei Filmen und Serien\n• Handy: echtes Vollbild, Zoomen mit zwei Fingern, Format-Knopf\n• Intro: Bild und Ton jedes Mal synchron und flüssig\n• Stabiler: kein Absturz mehr, wenn der Anbieter kurz nicht erreichbar ist (z. B. VPN-Wechsel)\n• Companion-Fernbedienung entfernt (ersetzt durch Cast)\n• Neues Video von KarimCleverBot mit allen Neuerungen\n\nUpdate über Einstellungen → System → Update prüfen.",
+  "versionCode": 44,
+  "versionName": "3.6.7",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.6.7.apk",
+  "releaseNotes": "Djoudinis IP Player 3.6.7 (Build 44)\n\nNeu seit 3.6.4:\n• Live-TV ruckelt deutlich weniger: Hängt die Verbindung, wird nach 3 statt bis zu 10 Sekunden neu verbunden\n• Langsamer Anbieter: Der Player baut einmal einen größeren Puffer auf und spielt bei knappem Vorrat unhörbar 3 % langsamer\n• Hängt ein Sender immer wieder, schaltet die App ihn automatisch auf HLS um\n• Keine unnötigen Neustarts mehr bei dunklen oder ruhigen Szenen\n• Kategorien bei Filmen und Serien verschieben (Fernseher: OK gedrückt halten, Handy: lange tippen)\n• Lizenz: Verlängerung jederzeit anfordern, auch nach Ablauf; freiwilliger Name für den Betreiber; Gerät bleibt nach Neuinstallation erkannt\n• Klarere Texte und Fehlermeldungen\n• Neues Video von KarimCleverBot mit allen Neuerungen\n\nUpdate über Einstellungen → System → Update prüfen.",
   "minVersionCode": 1,
-  "sha256": "b0cb62aeb7ebf0bf61f4c1cafc19f13fedbeeb05e577134c298347a0bc9fffa1"
+  "sha256": "2ba015ee3d82c0586b55b1a80dc9afcf902dcf3f9dd9f263a086e20a0a2eb62c"
 }
