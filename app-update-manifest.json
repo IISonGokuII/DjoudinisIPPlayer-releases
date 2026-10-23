@@ -1,8 +1,8 @@
 {
-  "versionCode": 45,
-  "versionName": "3.6.8",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.6.8.apk",
-  "releaseNotes": "Djoudinis IP Player 3.6.8 (Build 45)\n\n• Schwache Geräte (z. B. Fire TV Stick): weniger Hänger bei Live-TV – kein Warten mehr auf einen größeren Puffer\n• Rote Punkte bei Sendern: nur noch echte, spürbare Hänger zählen (alte Werte zurückgesetzt)\n• „Nachbarkanäle vorladen“ ist jetzt standardmäßig aus (spart Verbindungen zum Anbieter)\n• NEU: Einstellungen → Diagnose & Optimierung – Gerät prüfen, Test, Empfehlungen übernehmen, Bericht an den Betreiber senden\n\nUpdate über Einstellungen → System → Update prüfen.",
+  "versionCode": 46,
+  "versionName": "3.6.9",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.6.9.apk",
+  "releaseNotes": "Djoudinis IP Player 3.6.9 (Build 46)\n\n• Diagnose & Optimierung stark erweitert: ausführlicher Test (je 1 Minute Live, Film und Serie) oder Schnelltest, Vorrat und Pufferspeicher live, Empfehlungen mit einem Klick übernehmen – und jederzeit rückgängig\n• Schwache Geräte (z. B. Fire TV Stick): Live-TV wieder wie in 3.6.4, schwache Geräte werden erkannt, mehr Pufferspeicher nur wenn nötig, keine großen Updates während der Wiedergabe\n• Filme & Serien: zuverlässigerer Start, kurzes Warten bei Verbindungslimit, besserer Film-Ruckelschutz, flüssigeres Scrollen\n• TV-Programm: Anzeige zittert beim Aktualisieren nicht mehr\n• Intro läuft jetzt exakt im Takt mit dem Startsound\n\nUpdate über Einstellungen → System → Update prüfen.",
   "minVersionCode": 1,
-  "sha256": "64472b210bc9d952a6d38cf393a1c68f99272cd59a1e455e9e4cfa79cb89f08d"
+  "sha256": "081ea09e57fd380e0cfe79ca58db0aa08d4427fe205549dae89b2b6541d6d2c4"
 }
