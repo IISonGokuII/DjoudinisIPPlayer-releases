@@ -1,8 +1,8 @@
 {
-  "versionCode": 46,
-  "versionName": "3.6.9",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.6.9.apk",
-  "releaseNotes": "Djoudinis IP Player 3.6.9 (Build 46)\n\n• Diagnose & Optimierung stark erweitert: ausführlicher Test (je 1 Minute Live, Film und Serie) oder Schnelltest, Vorrat und Pufferspeicher live, Empfehlungen mit einem Klick übernehmen – und jederzeit rückgängig\n• Schwache Geräte (z. B. Fire TV Stick): Live-TV wieder wie in 3.6.4, schwache Geräte werden erkannt, mehr Pufferspeicher nur wenn nötig, keine großen Updates während der Wiedergabe\n• Filme & Serien: zuverlässigerer Start, kurzes Warten bei Verbindungslimit, besserer Film-Ruckelschutz, flüssigeres Scrollen\n• TV-Programm: Anzeige zittert beim Aktualisieren nicht mehr\n• Intro läuft jetzt exakt im Takt mit dem Startsound\n\nUpdate über Einstellungen → System → Update prüfen.",
+  "versionCode": 49,
+  "versionName": "3.7.0",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.7.0.apk",
+  "releaseNotes": "Djoudinis IP Player 3.7.0 (Build 49)\n\n• Neue Suche: beste Treffer zuerst, findet jetzt auch Sendungen aus dem TV-Programm – mit Sender und Uhrzeit, auch auf Handy und Tablet\n• TV-Programm: lädt wieder zuverlässig, auch wenn der Anbieter die Server-Adresse wechselt; Titel bleiben beim Scrollen lesbar; nach dem Player stehst du wieder beim geschauten Sender\n• Zurück zum letzten Sender: ganz vorne im Player-Menü (mit Namen) oder mit der grünen Taste bzw. der Last-Taste; die rote Taste nimmt auf\n• Aufgeräumte Einstellungen: Auswahllisten auf dem Fernseher, Ordner und Suche auf Handy und Tablet, auf dem Tablet zweispaltig\n• Handy & Tablet: Bild-im-Bild, Mehrfachansicht spart Speicher, Hinweis bei nur einer Verbindung, Aufnahmen auch mit einer Verbindung\n• Ruhiger schauen: Sender nach VPN-Neuverbindung sofort zurück, Hänger werden früher erkannt, Serien gehen bei der zuletzt gesehenen Folge weiter\n• Update rund 21 MB kleiner: das Neuigkeiten-Video wird nur einmal geladen\n• 8 neue Hilfe-Artikel\n\nUpdate über Einstellungen → System → Update prüfen.",
   "minVersionCode": 1,
-  "sha256": "081ea09e57fd380e0cfe79ca58db0aa08d4427fe205549dae89b2b6541d6d2c4"
+  "sha256": "f06c82f1ef1efe43f8383689c83e9e631f79277d0165d9cfba7a63e29ba09022"
 }
