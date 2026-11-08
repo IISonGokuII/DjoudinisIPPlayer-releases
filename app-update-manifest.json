@@ -1,8 +1,8 @@
 {
-  "versionCode": 50,
-  "versionName": "3.7.1",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.7.1.apk",
-  "releaseNotes": "Djoudinis IP Player 3.7.1 (Build 50)\n\n• Live-TV: Liefert der Anbieter zu langsam, verbindet die App nach wenigen Sekunden neu, statt bis zu einer Minute zu stocken\n• Filme & Serien: Eine langsame Verbindung wird unsichtbar ersetzt, der Film läuft an derselben Stelle weiter; an langsamen Abenden lädt die App länger vor, auch für die nächste Folge; Hinweis „Anbieter liefert langsam“ statt nur Ladekreis\n• Diagnose: Ampeln für Gerät, Leitung (WLAN, Internet, VPN) und Anbieter mit klarem Fazit; starke Geräte werden nicht mehr als schwach eingestuft\n• Nachschauen: nach einem Abriss weiter an derselben Stelle statt von vorne\n• Kein endloses Neuladen mehr bei Standbildern („Es geht gleich weiter“)\n• Neuer Player (Media3 1.11) mit vielen Fehlerkorrekturen\n• Experiment unter Wiedergabe: nahtloser Verbindungstausch bei Live-TV\n\nUpdate über Einstellungen → System → Update prüfen.",
+  "versionCode": 51,
+  "versionName": "3.7.2",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.7.2.apk",
+  "releaseNotes": "Djoudinis IP Player 3.7.2 (Build 51)\n\n• Diagnose: erkennt genauer, ob Leitung oder Anbieter bremst – sie misst, was beim Abspielen wirklich ankommt, und lässt die schnellen ersten Sekunden einer Verbindung außen vor\n• Filme & Serien: an sehr langsamen Abenden höchstens etwa 20 Sekunden Ladekreis statt über einer Minute; eine abgerissene Verbindung wird schneller ersetzt\n• Nachschauen: nach einem Abriss weiter an der Stelle, auch wenn der Anbieter nicht spulen kann; am Ende startet die Sendung nicht mehr neu; „Von vorne“ wechselt beim Aufholen von selbst zu Live\n• Experiment „Verbindung nahtlos tauschen“ entfernt: im Test hakte das Bild beim Tausch; die schnelle Neuverbindung bei Live-TV bleibt\n• Neuinstallation: nur noch das aktuelle Neuigkeiten-Video\n\nUpdate über Einstellungen → System → Update prüfen.",
   "minVersionCode": 1,
-  "sha256": "0f95d7731b7ff9d651c291d070bf08342e1c1ea9244e14c7ccff0dce326bd799"
+  "sha256": "d541e44b137d000b3c512c8adbbdfb0f2dbc76403caee4767a3adece0c4b8593"
 }
