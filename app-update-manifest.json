@@ -1,8 +1,8 @@
 {
-  "versionCode": 49,
-  "versionName": "3.7.0",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.7.0.apk",
-  "releaseNotes": "Djoudinis IP Player 3.7.0 (Build 49)\n\n• Neue Suche: beste Treffer zuerst, findet jetzt auch Sendungen aus dem TV-Programm – mit Sender und Uhrzeit, auch auf Handy und Tablet\n• TV-Programm: lädt wieder zuverlässig, auch wenn der Anbieter die Server-Adresse wechselt; Titel bleiben beim Scrollen lesbar; nach dem Player stehst du wieder beim geschauten Sender\n• Zurück zum letzten Sender: ganz vorne im Player-Menü (mit Namen) oder mit der grünen Taste bzw. der Last-Taste; die rote Taste nimmt auf\n• Aufgeräumte Einstellungen: Auswahllisten auf dem Fernseher, Ordner und Suche auf Handy und Tablet, auf dem Tablet zweispaltig\n• Handy & Tablet: Bild-im-Bild, Mehrfachansicht spart Speicher, Hinweis bei nur einer Verbindung, Aufnahmen auch mit einer Verbindung\n• Ruhiger schauen: Sender nach VPN-Neuverbindung sofort zurück, Hänger werden früher erkannt, Serien gehen bei der zuletzt gesehenen Folge weiter\n• Update rund 21 MB kleiner: das Neuigkeiten-Video wird nur einmal geladen\n• 8 neue Hilfe-Artikel\n\nUpdate über Einstellungen → System → Update prüfen.",
+  "versionCode": 50,
+  "versionName": "3.7.1",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.7.1.apk",
+  "releaseNotes": "Djoudinis IP Player 3.7.1 (Build 50)\n\n• Live-TV: Liefert der Anbieter zu langsam, verbindet die App nach wenigen Sekunden neu, statt bis zu einer Minute zu stocken\n• Filme & Serien: Eine langsame Verbindung wird unsichtbar ersetzt, der Film läuft an derselben Stelle weiter; an langsamen Abenden lädt die App länger vor, auch für die nächste Folge; Hinweis „Anbieter liefert langsam“ statt nur Ladekreis\n• Diagnose: Ampeln für Gerät, Leitung (WLAN, Internet, VPN) und Anbieter mit klarem Fazit; starke Geräte werden nicht mehr als schwach eingestuft\n• Nachschauen: nach einem Abriss weiter an derselben Stelle statt von vorne\n• Kein endloses Neuladen mehr bei Standbildern („Es geht gleich weiter“)\n• Neuer Player (Media3 1.11) mit vielen Fehlerkorrekturen\n• Experiment unter Wiedergabe: nahtloser Verbindungstausch bei Live-TV\n\nUpdate über Einstellungen → System → Update prüfen.",
   "minVersionCode": 1,
-  "sha256": "f06c82f1ef1efe43f8383689c83e9e631f79277d0165d9cfba7a63e29ba09022"
+  "sha256": "0f95d7731b7ff9d651c291d070bf08342e1c1ea9244e14c7ccff0dce326bd799"
 }
