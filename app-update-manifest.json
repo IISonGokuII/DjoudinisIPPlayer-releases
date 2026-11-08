@@ -1,8 +1,8 @@
 {
-  "versionCode": 51,
-  "versionName": "3.7.2",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.7.2.apk",
-  "releaseNotes": "Djoudinis IP Player 3.7.2 (Build 51)\n\n• Diagnose: erkennt genauer, ob Leitung oder Anbieter bremst – sie misst, was beim Abspielen wirklich ankommt, und lässt die schnellen ersten Sekunden einer Verbindung außen vor\n• Filme & Serien: an sehr langsamen Abenden höchstens etwa 20 Sekunden Ladekreis statt über einer Minute; eine abgerissene Verbindung wird schneller ersetzt\n• Nachschauen: nach einem Abriss weiter an der Stelle, auch wenn der Anbieter nicht spulen kann; am Ende startet die Sendung nicht mehr neu; „Von vorne“ wechselt beim Aufholen von selbst zu Live\n• Experiment „Verbindung nahtlos tauschen“ entfernt: im Test hakte das Bild beim Tausch; die schnelle Neuverbindung bei Live-TV bleibt\n• Neuinstallation: nur noch das aktuelle Neuigkeiten-Video\n\nUpdate über Einstellungen → System → Update prüfen.",
+  "versionCode": 52,
+  "versionName": "3.7.3",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.7.3.apk",
+  "releaseNotes": "Djoudinis IP Player 3.7.3 (Build 52)\n\n• Geplante Aufnahmen: starten jetzt auch, wenn die App im Hintergrund ist (Android 12 und neuer); nach einem Neustart werden die Timer wieder gestellt, eine verpasste Startzeit wird für den Rest der Sendung nachgeholt\n• Aufnahmen: kein Absturz mehr am Ende einer geplanten Aufnahme, die vorher schon beendet war\n• TV: im Timer-Fenster sind Startzeit und Dauer wieder erreichbar; der Status steht auf Deutsch („geplant“, „läuft“, „verpasst“)\n• Lizenz: bleibt gültig, auch wenn der Lizenzserver zeitweise keine Auskunft gibt\n• Testphase: startet erst, wenn die Uhr des Geräts stimmt\n\nUpdate über Einstellungen → System → Update prüfen.",
   "minVersionCode": 1,
-  "sha256": "d541e44b137d000b3c512c8adbbdfb0f2dbc76403caee4767a3adece0c4b8593"
+  "sha256": "7b6e5924a19f23a696d528ecf4c9760df91ecd301678e64736266442a5ecd8a4"
 }
