@@ -1,8 +1,8 @@
 {
-  "versionCode": 53,
-  "versionName": "3.7.4",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.7.4.apk",
-  "releaseNotes": "Djoudinis IP Player 3.7.4 (Build 53)\n\n• Live-TV: ruhigere Wiederverbindung bei Störungen und klare Meldung bei dauerhaft nicht spielbaren Sendern\n• Kinderprofil: „Vorheriger Sender“ und Verlauf respektieren gesperrte Kategorien\n• Sicherheit: gehärtete Update-Prüfung (SHA-256 Pflicht & vertrauenswürdige GitHub-Hosts), sicherere Eltern-PIN (PBKDF2 + neustartfeste Sperre), UPnP/DLNA-LAN-Schutz und keine Klartext-Zugangsdaten in temporären Backup-Dateien\n• Stabilität: automatische Wiederherstellung bei beschädigtem Keystore auf TV-Boxen, leere 0-Byte-Aufnahmen werden bei Fehlern automatisch bereinigt\n• Trailer & Bild-im-Bild: Untertitel-Umschaltung im Trailer korrigiert und flüssigerer Bild-im-Bild-Übergang ab Android 12\n\nUpdate über Einstellungen → System → Update prüfen.",
+  "versionCode": 54,
+  "versionName": "3.7.5",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.7.5.apk",
+  "releaseNotes": "Djoudinis IP Player 3.7.5 (Build 54)\n\n• Player & Live-TV: Untertitel-Auswahl repariert, „Vorherige Folge“-Taste korrigiert, sanftere Helligkeits-/Lautstärke-Gesten, stabilerer Multi-View & Bild-im-Bild-Modus sowie sichere Bildwiederholrate beim Beenden\n• Aufnahmen: echte HLS-Aufnahme (.m3u8) mit Segment-Download, Multi-Verbindungs-Aufnahmen ohne Wiedergabe-Unterbrechung, WakeLock gegen Abbrüche im Standby und frische Stream-URLs bei Timern\n• EPG & Playlists: exaktere Sender-Zuordnung, sauberer XMLTV-/M3U-Parser ohne abgeschnittene Sonderzeichen, geschützte Metadaten beim Sync und keine Datenverluste bei großen Playlists\n• Backup & Kinderprofil: vollständiges Backup inkl. Episoden-Fortschritt, Programmnummern und EPG-Zeitversatz; lückenloser Kinderprofil-Schutz für Player, Weiter-schauen, Aufnahmen, Multi-View und Erinnerungen\n• Sicherheit, Lizenz & TV: isolierter Playlist-Passwort-Key, härtere Update-Prüfung, geschützte Lizenz-Zeitprüfung auch bei TV-Aufwecken sowie neues 16:9 Android-TV-Banner\n\nUpdate über Einstellungen → System → Update prüfen.",
   "minVersionCode": 1,
-  "sha256": "b849f4445fd20f024f733c658b04bce327f2ffe32b3637238ea03cc0692002dc"
+  "sha256": "ad95d592b0f327546ed9c43c3837bb054120ff63b329696b780a6caa49af942b"
 }
