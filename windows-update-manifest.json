@@ -1,8 +1,8 @@
 {
-    "versionCode":  6,
-    "versionName":  "0.5.0",
-    "apkUrl":  "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/win-v0.5.0/DjoudiniTV-0.5.0.msi",
-    "releaseNotes":  "DjoudiniTV Windows 0.5.0 (Build 6)\n\n- Voller Stand von Android 3.7.6: gemeinsamer Live-Recovery-Koordinator, 3. Ausweich-Stream (.mpegts), kein doppelter Player-Start, fluessiger Spul-Balken, scrollbare Player-Dialoge, freie REC-Anzeige und DLNA-Seek\n- PC-Mini-Player (Immer im Vordergrund): Taste P im Player schrumpft das Fenster kompakt nach unten rechts\n- Aufnahme-Schutz beim Schliessen: minimiert bei laufender Aufnahme sicher in den Windows-Infobereich (inkl. Rechtsklick-Menue)\n- Echtes natives libmpv Lip-Sync (Ton-Synchronisation direkt im Tonspur-Menue)\n- Neue Windows-Tastenkuerzel-Hilfe (F1) und automatische Log-/Cache-Bereinigung",
+    "versionCode":  7,
+    "versionName":  "0.5.1",
+    "apkUrl":  "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/win-v0.5.1/DjoudiniTV-0.5.1.msi",
+    "releaseNotes":  "DjoudiniTV Windows 0.5.1 (Build 7)\n\n- Neues KarimCleverBot 3.7.6 Cyber-Neon-Studio Neuigkeiten-Video freigeschaltet\n- Sanftes G1GC-Speicher-Tuning (max. 20 ms Pausen) gegen Mikroruckler bei langen TV-Abenden\n- Voller Stand von Android 3.7.6 plus PC-Mini-Player (Taste P), Tray-Aufnahmeschutz, natives libmpv Lip-Sync und Windows-Hilfe (F1)",
     "minVersionCode":  1,
-    "sha256": "25ad0be3011b85ae25ca5835bc1a9acb8b0680d77e868435e4e25510ec6167ae"
+    "sha256":  "891a46fc847c341d8b95b27e7ce629cd6e863ed4b5e326a521e6878d16395c5e"
 }
