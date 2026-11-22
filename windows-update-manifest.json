@@ -1,8 +1,8 @@
 {
-    "versionCode":  8,
-    "versionName":  "0.5.2",
-    "apkUrl":  "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/win-v0.5.2/DjoudiniTV-0.5.2.msi",
-    "releaseNotes":  "DjoudiniTV Windows 0.5.2 (Build 8)\n\n- Live-TV-Flackern behoben: automatisches Deinterlacing (deinterlace=auto) für 1080i50-Sender\n- 5-fach-Bildpuffer mit 3-Frame-Schutz verhindert Bild-Überschneidungen während des GPU-Uploads\n- Sauberer libmpv-Frame-Takt (report_swap) für ruhigere Wiedergabe\n- Lineare Skalierung (bilinear + GPU-Filter) und stabilisiertes Seitenverhältnis gegen Kantenflimmern",
+    "versionCode":  9,
+    "versionName":  "0.5.3",
+    "apkUrl":  "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/win-v0.5.3/DjoudiniTV-0.5.3.msi",
+    "releaseNotes":  "DjoudiniTV Windows 0.5.3 (Build 9)\n\n- OpenGL-Renderer statt Direct3D 12: behebt aufblitzende Artefakte auf schwarzen Flächen und dunklen Elementen (Intel UHD/Xe)\n- Sauberes bgra-Pixelformat in mpv (kein uninitialisiertes Alpha-Byte mehr)\n- Reparierter Windows-In-App-Updater: Download nach %TEMP% mit richtigem MSI-Namen und automatischem Neustart",
     "minVersionCode":  1,
-    "sha256":  "1acbaf8d559a6d39abedc4b2a8b208e290d7efef6f831167a4a21cab788d7242"
+    "sha256":  "e7f11072122b84781eea6e4a53987f786bf210385b800052b3f2e4c71115551b"
 }
