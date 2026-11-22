@@ -1,8 +1,8 @@
 {
-    "versionCode":  7,
-    "versionName":  "0.5.1",
-    "apkUrl":  "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/win-v0.5.1/DjoudiniTV-0.5.1.msi",
-    "releaseNotes":  "DjoudiniTV Windows 0.5.1 (Build 7)\n\n- Neues KarimCleverBot 3.7.6 Cyber-Neon-Studio Neuigkeiten-Video freigeschaltet\n- Sanftes G1GC-Speicher-Tuning (max. 20 ms Pausen) gegen Mikroruckler bei langen TV-Abenden\n- Voller Stand von Android 3.7.6 plus PC-Mini-Player (Taste P), Tray-Aufnahmeschutz, natives libmpv Lip-Sync und Windows-Hilfe (F1)",
+    "versionCode":  8,
+    "versionName":  "0.5.2",
+    "apkUrl":  "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/win-v0.5.2/DjoudiniTV-0.5.2.msi",
+    "releaseNotes":  "DjoudiniTV Windows 0.5.2 (Build 8)\n\n- Live-TV-Flackern behoben: automatisches Deinterlacing (deinterlace=auto) für 1080i50-Sender\n- 5-fach-Bildpuffer mit 3-Frame-Schutz verhindert Bild-Überschneidungen während des GPU-Uploads\n- Sauberer libmpv-Frame-Takt (report_swap) für ruhigere Wiedergabe\n- Lineare Skalierung (bilinear + GPU-Filter) und stabilisiertes Seitenverhältnis gegen Kantenflimmern",
     "minVersionCode":  1,
-    "sha256":  "891a46fc847c341d8b95b27e7ce629cd6e863ed4b5e326a521e6878d16395c5e"
+    "sha256":  "1acbaf8d559a6d39abedc4b2a8b208e290d7efef6f831167a4a21cab788d7242"
 }
