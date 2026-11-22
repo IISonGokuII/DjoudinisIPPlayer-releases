@@ -1,8 +1,8 @@
 {
-    "versionCode":  9,
-    "versionName":  "0.5.3",
-    "apkUrl":  "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/win-v0.5.3/DjoudiniTV-0.5.3.msi",
-    "releaseNotes":  "DjoudiniTV Windows 0.5.3 (Build 9)\n\n- OpenGL-Renderer statt Direct3D 12: behebt aufblitzende Artefakte auf schwarzen Flächen und dunklen Elementen (Intel UHD/Xe)\n- Sauberes bgra-Pixelformat in mpv (kein uninitialisiertes Alpha-Byte mehr)\n- Reparierter Windows-In-App-Updater: Download nach %TEMP% mit richtigem MSI-Namen und automatischem Neustart",
+    "versionCode":  10,
+    "versionName":  "0.5.4",
+    "apkUrl":  "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/win-v0.5.4/DjoudiniTV-0.5.4.msi",
+    "releaseNotes":  "DjoudiniTV Windows 0.5.4 (Build 10)\n\n- Deutlich flüssigere Vollbild-Wiedergabe: schneller AVX2-YUV-Pfad (ca. 10× schneller bei 1080p)\n- Kein unnötiges CPU-Hochskalieren bei 720p/SD-Sendern: OpenGL skaliert direkt auf der GPU (über 20× schneller, weniger Bandbreite)\n- Weniger GPU-Last bei 16:9-Vollbild (kein doppeltes Schwarz-Zeichnen mehr)",
     "minVersionCode":  1,
-    "sha256":  "e7f11072122b84781eea6e4a53987f786bf210385b800052b3f2e4c71115551b"
+    "sha256":  "a8d6d58fe450c54fb3ef7a84e8595c0be8e77ad9a10a69e65696a4c5b42c7a6e"
 }
