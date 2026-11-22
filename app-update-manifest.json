@@ -1,8 +1,8 @@
 {
-  "versionCode": 54,
-  "versionName": "3.7.5",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.7.5.apk",
-  "releaseNotes": "Djoudinis IP Player 3.7.5 (Build 54)\n\n• Player & Live-TV: Untertitel-Auswahl repariert, „Vorherige Folge“-Taste korrigiert, sanftere Helligkeits-/Lautstärke-Gesten, stabilerer Multi-View & Bild-im-Bild-Modus sowie sichere Bildwiederholrate beim Beenden\n• Aufnahmen: echte HLS-Aufnahme (.m3u8) mit Segment-Download, Multi-Verbindungs-Aufnahmen ohne Wiedergabe-Unterbrechung, WakeLock gegen Abbrüche im Standby und frische Stream-URLs bei Timern\n• EPG & Playlists: exaktere Sender-Zuordnung, sauberer XMLTV-/M3U-Parser ohne abgeschnittene Sonderzeichen, geschützte Metadaten beim Sync und keine Datenverluste bei großen Playlists\n• Backup & Kinderprofil: vollständiges Backup inkl. Episoden-Fortschritt, Programmnummern und EPG-Zeitversatz; lückenloser Kinderprofil-Schutz für Player, Weiter-schauen, Aufnahmen, Multi-View und Erinnerungen\n• Sicherheit, Lizenz & TV: isolierter Playlist-Passwort-Key, härtere Update-Prüfung, geschützte Lizenz-Zeitprüfung auch bei TV-Aufwecken sowie neues 16:9 Android-TV-Banner\n\nUpdate über Einstellungen → System → Update prüfen.",
+  "versionCode": 55,
+  "versionName": "3.7.6",
+  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.7.6.apk",
+  "releaseNotes": "Djoudinis IP Player 3.7.6 (Build 55)\n\n• Live-TV & Stall-Recovery auf 100 %: gemeinsamer Recovery-Koordinator verhindert konkurrierende Doppel-Neustarts, 3. Ausweich-Stream (.mpegts) wird jetzt zuverlässig erreicht und doppelte Player-Erstellung beim Start entfällt\n• Bild & Ton: nahtloses, abschaltbares Auto-Frame-Rate (Android 12+ ohne HDMI-Flackern, exaktes 23,976/24-Hz-Matching), echte Echtzeit-Audio-Verzögerung (Lip-Sync direkt im Ton-Menü) und flüssiger Spul-Balken erst beim Loslassen\n• Bild-im-Bild (PiP) & DLNA: Play/Pause direkt im PiP-Fenster, echtes Video-Seitenverhältnis, sofortiges Fortschritt-Speichern beim Schließen sowie DLNA-Start ab aktueller Filmposition\n• Erinnerungen & TV-Dialoge: pünktliche EPG-Erinnerungen per AlarmManager (überleben Standby & Neustart), scrollbare TV-Player-Dialoge mit Fokusrahmen und freie ● REC-Anzeige ohne Titel-Überlappung\n\nUpdate über Einstellungen → System → Update prüfen.",
   "minVersionCode": 1,
-  "sha256": "ad95d592b0f327546ed9c43c3837bb054120ff63b329696b780a6caa49af942b"
+  "sha256": "e54bad2c11f3d71a648b39be4df08beed35acd2862d3159115e0cfa352a9a11f"
 }
