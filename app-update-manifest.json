@@ -1,8 +1,8 @@
 {
-  "versionCode": 55,
-  "versionName": "3.7.6",
-  "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.7.6.apk",
-  "releaseNotes": "Djoudinis IP Player 3.7.6 (Build 55)\n\n• Live-TV & Stall-Recovery auf 100 %: gemeinsamer Recovery-Koordinator verhindert konkurrierende Doppel-Neustarts, 3. Ausweich-Stream (.mpegts) wird jetzt zuverlässig erreicht und doppelte Player-Erstellung beim Start entfällt\n• Bild & Ton: nahtloses, abschaltbares Auto-Frame-Rate (Android 12+ ohne HDMI-Flackern, exaktes 23,976/24-Hz-Matching), echte Echtzeit-Audio-Verzögerung (Lip-Sync direkt im Ton-Menü) und flüssiger Spul-Balken erst beim Loslassen\n• Bild-im-Bild (PiP) & DLNA: Play/Pause direkt im PiP-Fenster, echtes Video-Seitenverhältnis, sofortiges Fortschritt-Speichern beim Schließen sowie DLNA-Start ab aktueller Filmposition\n• Erinnerungen & TV-Dialoge: pünktliche EPG-Erinnerungen per AlarmManager (überleben Standby & Neustart), scrollbare TV-Player-Dialoge mit Fokusrahmen und freie ● REC-Anzeige ohne Titel-Überlappung\n\nUpdate über Einstellungen → System → Update prüfen.",
-  "minVersionCode": 1,
-  "sha256": "e54bad2c11f3d71a648b39be4df08beed35acd2862d3159115e0cfa352a9a11f"
+    "versionCode":  56,
+    "versionName":  "3.7.6",
+    "apkUrl":  "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.7.6.apk",
+    "releaseNotes":  "Djoudinis IP Player 3.7.6 (Build 56)\n\n- Live-TV \u0026 Stall-Recovery auf 100 %: gemeinsamer Recovery-Koordinator verhindert Doppel-Neustarts, 3. Ausweich-Stream (.mpegts) jetzt aktiv, schnellerer Start ohne doppelten Player\n- Bild \u0026 Ton: nahtloses, abschaltbares Auto-Frame-Rate (Android 12+ ohne Schwarzbild), echte Echtzeit-Audio-Synchronisation (Lip-Sync im Tonspur-Menue) und fluessiger Spul-Balken erst beim Loslassen\n- Bild-im-Bild (PiP) \u0026 DLNA: Play/Pause direkt im PiP-Fenster, echtes Video-Seitenverhaeltnis, sofortiges Fortschritt-Speichern sowie DLNA-Start ab letzter Stelle\n- Aufnahmen, Erinnerungen \u0026 TV: echte HLS-Aufnahmen (.m3u8), puenktliche AlarmManager-Erinnerungen im Standby, scrollbare TV-Dialoge mit Fokusrahmen, freie REC-Anzeige und neues KarimCleverBot-Video\n\nUpdate ueber Einstellungen -\u003e System -\u003e Update pruefen.",
+    "minVersionCode":  1,
+    "sha256":  "ca006b5e705814bf065484a216c29ed4faf5eb3377e8a67f229acc51ec9ac194"
 }
