@@ -1,0 +1,8 @@
+{
+    "versionCode":  6,
+    "versionName":  "0.5.0",
+    "apkUrl":  "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/win-v0.5.0/DjoudiniTV-0.5.0.msi",
+    "releaseNotes":  "DjoudiniTV Windows 0.5.0 (Build 6)\n\n- Voller Stand von Android 3.7.6: gemeinsamer Live-Recovery-Koordinator, 3. Ausweich-Stream (.mpegts), kein doppelter Player-Start, fluessiger Spul-Balken, scrollbare Player-Dialoge, freie REC-Anzeige und DLNA-Seek\n- PC-Mini-Player (Immer im Vordergrund): Taste P im Player schrumpft das Fenster kompakt nach unten rechts\n- Aufnahme-Schutz beim Schliessen: minimiert bei laufender Aufnahme sicher in den Windows-Infobereich (inkl. Rechtsklick-Menue)\n- Echtes natives libmpv Lip-Sync (Ton-Synchronisation direkt im Tonspur-Menue)\n- Neue Windows-Tastenkuerzel-Hilfe (F1) und automatische Log-/Cache-Bereinigung",
+    "minVersionCode":  1,
+    "sha256":  "55999b9b8001b45c8b7b2459251d18dd679c7b0ce7e7c7b6506c2358d4327a7a"
+}
