@@ -1,8 +1,8 @@
 {
-    "versionCode":  10,
-    "versionName":  "0.5.4",
-    "apkUrl":  "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/win-v0.5.4/DjoudiniTV-0.5.4.msi",
-    "releaseNotes":  "DjoudiniTV Windows 0.5.4 (Build 10)\n\n- Deutlich flüssigere Vollbild-Wiedergabe: schneller AVX2-YUV-Pfad (ca. 10× schneller bei 1080p)\n- Kein unnötiges CPU-Hochskalieren bei 720p/SD-Sendern: OpenGL skaliert direkt auf der GPU (über 20× schneller, weniger Bandbreite)\n- Weniger GPU-Last bei 16:9-Vollbild (kein doppeltes Schwarz-Zeichnen mehr)",
+    "versionCode":  11,
+    "versionName":  "0.5.5",
+    "apkUrl":  "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/releases/download/win-v0.5.5/DjoudiniTV-0.5.5.msi",
+    "releaseNotes":  "DjoudiniTV Windows 0.5.5 (Build 11)\n\n- 12× ruhigeres Frame-Pacing im Vollbild (exaktes libmpv-PTS-Timing + 1-ms-Windows-Multimedia-Timer, Jitter von 10,6 ms auf 0,87 ms gesenkt)\n- Direktes Compose-VSync-Timing (withFrameNanos) und 0 unnötige VideoSurface-Rekompositionen während der Wiedergabe\n- Keine 50-Hz-Snapshot-Sperren mehr im Player (AtomicLong) und kein überflüssiger Zoom-Layer bei 100 %",
     "minVersionCode":  1,
-    "sha256":  "a8d6d58fe450c54fb3ef7a84e8595c0be8e77ad9a10a69e65696a4c5b42c7a6e"
+    "sha256":  "5b6b6ba65a35e39c5a7e81bfb9b3cd751502fe0bd8807f2dc1df74b5f4143471"
 }
