@@ -1,9 +1,9 @@
 {
-    "versionCode":  56,
-    "versionName":  "3.7.6",
-    "apkUrl":  "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-3.7.6.apk",
-    "releaseNotes":  "Djoudinis IP Player 3.7.6 (Build 56)\n\n- Live-TV \u0026 Stall-Recovery auf 100 %: gemeinsamer Recovery-Koordinator verhindert Doppel-Neustarts, 3. Ausweich-Stream (.mpegts) jetzt aktiv, schnellerer Start ohne doppelten Player\n- Bild \u0026 Ton: nahtloses, abschaltbares Auto-Frame-Rate (Android 12+ ohne Schwarzbild), echte Echtzeit-Audio-Synchronisation (Lip-Sync im Tonspur-Menue) und fluessiger Spul-Balken erst beim Loslassen\n- Bild-im-Bild (PiP) \u0026 DLNA: Play/Pause direkt im PiP-Fenster, echtes Video-Seitenverhaeltnis, sofortiges Fortschritt-Speichern sowie DLNA-Start ab letzter Stelle\n- Aufnahmen, Erinnerungen \u0026 TV: echte HLS-Aufnahmen (.m3u8), puenktliche AlarmManager-Erinnerungen im Standby, scrollbare TV-Dialoge mit Fokusrahmen, freie REC-Anzeige und neues KarimCleverBot-Video\n\nUpdate ueber Einstellungen -\u003e System -\u003e Update pruefen.",
+    "versionCode":  57,
+    "versionName":  "4.0.0",
+    "apkUrl":  "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-4.0.0.apk",
+    "releaseNotes":  "Djoudinis IP Player 4.0.0 (Build 57) - Grosses Blockbuster-Update\n\n- Butterweiches Vollbild bis 120 Hz: 0 unnoetige Oberflaechen-Neuzeichnungen im Vollbild, echtes Hardware-SurfaceView auf Handy & Tablet, reparierte 50-Hz-/24p-Umschaltung auch auf 120-Hz-Smart-TVs & Android 12+ sowie fester 1,0x-Live-Takt\n- Stall-Schutz & Player-Komfort: dauerhaft aktive Haenger-Rettung mit 4 Ausweich-Wegen, lueckenloser Lip-Sync ohne Ton-Aussetzer, Zifferntasten 0-9 direkt im Vollbild, volles Spulen im Catch-up & smartes Multi-View\n- Aufnahmen, Riesen-Listen & M3U-Serien: punktgenaue Live-HLS-Aufnahmen inkl. Android-15-Langzeitschutz, schlaue Serien-Regeln mit EPG-Abgleich, ueber 150 MB weniger RAM beim Sync & echte M3U-Serien mit Staffeln/Folgen\n- Kinderschutz, Komplett-Backup & Action-Intro: Pflicht-PIN & lueckenloser Schutz im Kinderprofil, Serien-Fortschritte im Backup gesichert und brandneues KarimCleverBot 4.0 Action-Blockbuster-Video\n\nUpdate ueber Einstellungen -> System -> Update pruefen (TV-Downloader-Code: 9194946).",
     "minVersionCode":  1,
-    "sha256":  "ca006b5e705814bf065484a216c29ed4faf5eb3377e8a67f229acc51ec9ac194",
+    "sha256":  "2e7c8c7120a01bbbc5b593db04df4324c4f67891d9e73186b2ed04ab36ca09f8",
     "downloaderCode":  "9194946"
 }
