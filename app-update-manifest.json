@@ -1,9 +1,9 @@
 ﻿{
-    "versionCode":  58,
-    "versionName":  "4.0.1",
-    "apkUrl":  "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-4.0.1.apk",
-    "releaseNotes":  "Djoudinis IP Player 4.0.1 (Build 58) - TV-Praxis-Feinschliff zu 4.0\n\n- Zifferntasten 0-9 im Vollbild zaehlen jetzt exakt einfach statt doppelt\n- Deutlich schnellere Menue-Reaktion auf Fernsehern mit aktiven Hintergrund-Helfern (30 % weniger Oberflaechen-Last bei Nicht-Screenreadern)\n- TV-Programm (EPG): Sendungstitel und Uhrzeiten wandern beim Scrollen sauber am linken Sichtrand mit\n- Live-TV-Vorschau: Exaktes 16:9-Videofenster ohne schwarzen Leerraum oben, klare Infokarte darunter \u0026 besser sichtbare dunkle Senderlogos\n- Klare weisse TV-Fokusrahmen in allen System-Dialogen, sofortiger Fokus in der Mehrfachansicht \u0026 direkter Hoch-Sprung in die obere Startseiten-Leiste\n\nUpdate ueber Einstellungen -\u003e System -\u003e Update pruefen (TV-Downloader-Code: 9194946).",
-    "minVersionCode":  1,
-    "sha256":  "5a6539b6d1cf196f2ab9482694fbeec90779f5d9045cd58f378d91c70e3f9e60",
-    "downloaderCode":  "9194946"
+    "versionCode": 58,
+    "versionName": "4.0.1",
+    "apkUrl": "https://github.com/IISonGokuII/DjoudinisIPPlayer-releases/raw/main/DjoudinisIPPlayer-4.0.1.apk",
+    "releaseNotes": "Djoudinis IP Player 4.0.1 (Build 58) - TV-Praxis-Feinschliff zu 4.0\n\n- Zifferntasten 0-9 im Vollbild zaehlen jetzt exakt einfach statt doppelt\n- Deutlich schnellere Menue-Reaktion auf Fernsehern mit aktiven Hintergrund-Helfern (30 % weniger Oberflaechen-Last bei Nicht-Screenreadern)\n- TV-Programm (EPG): Sendungstitel und Uhrzeiten wandern beim Scrollen sauber am linken Sichtrand mit\n- Live-TV-Vorschau: Exaktes 16:9-Videofenster ohne schwarzen Leerraum oben, klare Infokarte darunter & besser sichtbare dunkle Senderlogos\n- Klare weisse TV-Fokusrahmen in allen System-Dialogen, sofortiger Fokus in der Mehrfachansicht & direkter Hoch-Sprung in die obere Startseiten-Leiste\n\nUpdate ueber Einstellungen -> System -> Update pruefen (TV-Downloader-Code: 9194946).",
+    "minVersionCode": 1,
+    "sha256": "5a6539b6d1cf196f2ab9482694fbeec90779f5d9045cd58f378d91c70e3f9e60",
+    "downloaderCode": "9194946"
 }
